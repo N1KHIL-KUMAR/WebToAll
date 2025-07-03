@@ -1,9 +1,11 @@
 #!/usr/bin/python3
+
 #################################################################
 #email:-    nikhilkumaraur8241@gmail.com                        #
 #linkedin:- https://www.linkedin.com/in/nikhil-kumar-4b8497271/ #
 # github:-  https://github.com/NikhilVKumar                     #
 #################################################################
+
 import requests
 from bs4 import BeautifulSoup
 import webbrowser
