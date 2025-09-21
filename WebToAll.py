@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 import webbrowser
 from termcolor import colored
 
+
 logo="""
 -----------------------------
 ▀▄▀▄▀ 🢇 ꔪ ▀█▀ 🞉 ▅▀▅ █▄ █▄
